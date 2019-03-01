@@ -1,0 +1,16 @@
+h1, h2, h3
+{ 
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p, blockquote
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+    line-height: 150%;
+}
+
+body
+{
+    width: 75%;
+}
